@@ -1,2 +1,5 @@
-| Level | Parent | Parent | Dragons |
-| --- | --- | --- | --- | --- |
+| Level | Parent | Parent | Dragons | Egg Tokens |
+|-------|--------|--------|---------|------------|
+|       |        |        |         |            |
+|       |        |        |         |            |
+|       |        |        |         |            |
